@@ -83,3 +83,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# oh-my-zsh plugins
+plugins=(node npm nvm osx brew rand-quote git docker mosh)
