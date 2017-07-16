@@ -1,2 +1,2 @@
 # dotfiles
-My terminal dotfiles
+My terminal dotfiles.
