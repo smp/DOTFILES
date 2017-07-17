@@ -86,3 +86,6 @@ source $ZSH/oh-my-zsh.sh
 
 # oh-my-zsh plugins
 plugins=(node npm nvm osx brew rand-quote git docker mosh)
+
+# simple name
+export DEFAULT_USER="$(whoami)"
